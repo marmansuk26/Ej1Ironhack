@@ -1,0 +1,65 @@
+.div1 {
+    margin: 10px;
+    height: 200px;
+    background-color: aqua;
+}
+
+.div2 {
+    margin: 10px;
+    height: 60px;
+    background-color: black;
+}
+
+.div3 {
+    margin: 10px;
+    height: 150px;
+    background-color: black;
+}
+
+.div4 {
+    margin: 10px;
+    height: 120px;
+    background-color: blue;
+}
+
+.div5 {
+    margin: 10px;
+    height: 220px;
+    background-color: red;
+}
+
+.div6 {
+    margin: 10px;
+    height: 80px;
+    background-color: black;
+}
+
+.div7 {
+    margin: 10px;
+    height: 100px;
+    background-color: blue;
+}
+
+.div8 {
+    margin: 10px;
+    height: 200px;
+    background-color: red;
+}
+
+.div9 {
+    margin: 10px;
+    height: 200px;
+    background-color: black;
+}
+
+.col1{
+
+    float: left;
+    width: 50%;
+
+}
+.col2{
+
+    float: left;
+    width: 50%;
+}
