@@ -1,19 +1,19 @@
 .div1 {
     margin: 10px;
     height: 200px;
-    background-color: aqua;
+    background-color: forestgreen;
 }
 
 .div2 {
     margin: 10px;
     height: 60px;
-    background-color: black;
+    background-color: #008080;
 }
 
 .div3 {
     margin: 10px;
     height: 150px;
-    background-color: black;
+    background-color: rgb(70, 130, 180);
 }
 
 .div4 {
